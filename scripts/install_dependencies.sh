@@ -1,5 +1,5 @@
 #!/bin/bash
-code_path="${/home/ubuntu/python-app}"
+code_path="/home/ubuntu/python-app"
 cd ${code_path}
 
 # Install pip if not installed
